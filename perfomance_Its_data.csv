@@ -1,0 +1,1001 @@
+student_id,gender,Maths,English,kiswahili,Physics,Biology,Chemistry ,learning_style,self_assessment,recommendations
+ST-001,female,83,73,57,74,72,72,kinesthetic,2,Join study group
+ST-002,female,98,51,23,88,90,69,kinesthetic,2,Study more
+ST-003,female,47,62,30,93,95,90,kinesthetic,1,Practice regularly
+ST-004,male,23,21,29,44,57,47,auditory,3,Ask questions
+ST-005,male,45,24,35,75,78,76,kinesthetic,5,Study more
+ST-006,female,66,49,40,78,83,71,visual,2,Join study group
+ST-007,female,80,71,33,92,95,88,kinesthetic,3,Join study group
+ST-008,male,49,89,27,39,43,40,kinesthetic,2,Join study group
+ST-009,male,89,21,47,67,64,64,visual,3,Practice regularly
+ST-010,female,86,68,26,50,60,38,visual,3,Study more
+ST-011,male,87,40,22,52,54,58,auditory,4,Study more
+ST-012,male,68,51,49,43,52,40,visual,3,Practice regularly
+ST-013,female,82,82,52,73,81,65,visual,3,Study more
+ST-014,male,81,40,45,70,72,78,kinesthetic,3,Study more
+ST-015,female,62,74,55,58,53,50,kinesthetic,1,Study more
+ST-016,female,35,93,56,78,75,69,kinesthetic,1,Study more
+ST-017,male,93,63,57,86,89,88,kinesthetic,2,Ask questions
+ST-018,female,65,97,32,28,32,18,visual,5,Join study group
+ST-019,male,37,97,57,46,42,46,visual,2,Study more
+ST-020,female,69,37,24,61,58,54,kinesthetic,3,Ask questions
+ST-021,male,20,52,28,63,69,66,kinesthetic,3,Practice regularly
+ST-022,female,28,81,51,70,75,65,auditory,2,Join study group
+ST-023,male,34,99,35,53,54,44,auditory,2,Study more
+ST-024,female,29,97,48,73,73,69,kinesthetic,4,Practice regularly
+ST-025,male,43,37,27,80,71,74,kinesthetic,3,Study more
+ST-026,male,90,91,28,72,74,73,visual,3,Study more
+ST-027,male,72,90,59,55,54,69,auditory,5,Practice regularly
+ST-028,female,32,21,59,75,69,67,auditory,2,Study more
+ST-029,male,61,80,50,65,70,70,visual,5,Practice regularly
+ST-030,female,33,29,43,75,70,62,auditory,5,Practice regularly
+ST-031,female,63,87,43,74,74,69,visual,4,Practice regularly
+ST-032,female,45,83,40,61,65,63,kinesthetic,5,Study more
+ST-033,female,66,94,25,65,72,56,auditory,3,Ask questions
+ST-034,male,69,28,27,38,42,40,auditory,1,Study more
+ST-035,male,22,85,56,82,87,97,auditory,3,Study more
+ST-036,male,82,48,24,79,81,81,kinesthetic,3,Practice regularly
+ST-037,female,54,57,26,83,81,74,visual,2,Ask questions
+ST-038,female,82,85,58,59,64,50,auditory,5,Study more
+ST-039,female,39,37,22,88,90,75,visual,1,Join study group
+ST-040,male,29,89,26,57,56,57,kinesthetic,3,Practice regularly
+ST-041,male,60,96,27,54,61,55,kinesthetic,3,Practice regularly
+ST-042,female,33,20,37,68,73,58,visual,5,Study more
+ST-043,female,82,31,33,65,58,53,visual,1,Study more
+ST-044,male,72,84,35,66,65,59,visual,4,Practice regularly
+ST-045,female,58,49,57,54,56,50,auditory,1,Study more
+ST-046,male,46,93,57,57,54,65,auditory,2,Join study group
+ST-047,female,86,67,27,62,65,55,auditory,1,Ask questions
+ST-048,female,59,76,27,76,71,66,kinesthetic,2,Join study group
+ST-049,female,96,62,37,76,74,57,auditory,4,Practice regularly
+ST-050,male,21,27,41,82,84,82,auditory,2,Ask questions
+ST-051,male,93,44,20,48,55,53,kinesthetic,4,Practice regularly
+ST-052,male,32,22,58,68,69,77,visual,3,Practice regularly
+ST-053,male,44,82,57,42,44,53,kinesthetic,4,Practice regularly
+ST-054,male,26,90,56,75,78,88,auditory,5,Practice regularly
+ST-055,female,65,95,29,87,84,71,kinesthetic,2,Join study group
+ST-056,female,77,63,52,43,41,33,kinesthetic,1,Join study group
+ST-057,female,36,39,59,86,85,82,kinesthetic,5,Ask questions
+ST-058,male,25,25,40,49,55,52,auditory,5,Ask questions
+ST-059,male,37,89,55,58,59,58,kinesthetic,2,Join study group
+ST-060,female,91,86,52,10,17,0,kinesthetic,3,Study more
+ST-061,male,30,53,24,72,74,79,visual,3,Study more
+ST-062,male,88,85,46,34,39,39,auditory,1,Ask questions
+ST-063,male,88,32,54,55,61,62,visual,5,Join study group
+ST-064,female,38,87,53,71,80,69,kinesthetic,1,Practice regularly
+ST-065,female,98,69,55,59,58,59,kinesthetic,1,Ask questions
+ST-066,male,73,57,44,61,64,67,kinesthetic,3,Ask questions
+ST-067,male,49,98,34,37,37,45,kinesthetic,2,Join study group
+ST-068,female,83,66,41,74,72,60,kinesthetic,1,Practice regularly
+ST-069,male,82,97,57,56,58,61,visual,5,Join study group
+ST-070,female,53,73,34,57,64,39,kinesthetic,3,Join study group
+ST-071,female,64,47,21,73,63,58,visual,5,Study more
+ST-072,male,79,20,56,63,55,63,visual,5,Study more
+ST-073,female,82,63,26,48,51,41,visual,3,Ask questions
+ST-074,male,63,22,45,56,57,61,auditory,2,Ask questions
+ST-075,male,84,23,28,41,49,49,kinesthetic,4,Study more
+ST-076,male,95,57,26,38,41,44,kinesthetic,5,Study more
+ST-077,male,37,30,40,22,26,30,auditory,5,Join study group
+ST-078,male,52,89,56,81,78,80,visual,2,Practice regularly
+ST-079,female,99,35,45,72,74,61,visual,3,Ask questions
+ST-080,female,92,98,54,68,68,62,auditory,1,Study more
+ST-081,female,81,69,57,50,49,47,auditory,3,Practice regularly
+ST-082,male,76,36,53,45,45,49,visual,3,Practice regularly
+ST-083,male,57,94,38,54,47,50,visual,2,Practice regularly
+ST-084,male,88,97,36,63,64,72,auditory,1,Join study group
+ST-085,male,66,68,42,34,39,42,auditory,4,Ask questions
+ST-086,female,25,23,41,82,80,73,visual,3,Join study group
+ST-087,female,99,36,25,88,83,76,kinesthetic,1,Ask questions
+ST-088,female,52,24,43,74,71,71,auditory,2,Ask questions
+ST-089,female,40,61,31,67,70,58,kinesthetic,3,Practice regularly
+ST-090,female,74,92,37,82,86,73,auditory,2,Ask questions
+ST-091,female,47,40,29,74,72,65,visual,2,Practice regularly
+ST-092,male,28,97,48,36,34,27,kinesthetic,4,Study more
+ST-093,male,26,84,49,71,79,71,kinesthetic,4,Join study group
+ST-094,male,36,26,58,50,45,43,visual,3,Study more
+ST-095,female,66,52,50,92,86,79,kinesthetic,1,Practice regularly
+ST-096,male,45,80,51,82,81,78,kinesthetic,4,Join study group
+ST-097,male,88,71,47,62,66,65,auditory,5,Practice regularly
+ST-098,female,98,87,40,70,72,63,kinesthetic,3,Ask questions
+ST-099,female,37,75,38,62,67,58,auditory,5,Study more
+ST-100,female,82,57,36,62,67,65,visual,4,Ask questions
+ST-101,male,46,67,24,67,67,79,kinesthetic,2,Ask questions
+ST-102,male,25,30,47,74,74,68,visual,5,Ask questions
+ST-103,female,41,50,37,89,91,85,auditory,5,Study more
+ST-104,male,61,92,32,47,44,60,auditory,4,Study more
+ST-105,male,28,57,25,90,86,98,kinesthetic,4,Ask questions
+ST-106,female,22,32,24,72,67,58,visual,2,Ask questions
+ST-107,female,68,72,41,100,100,87,visual,4,Practice regularly
+ST-108,male,49,51,53,64,63,66,visual,2,Practice regularly
+ST-109,female,36,65,48,70,76,52,kinesthetic,5,Ask questions
+ST-110,female,27,31,51,72,64,70,auditory,3,Ask questions
+ST-111,female,34,23,48,98,89,77,kinesthetic,1,Practice regularly
+ST-112,male,20,85,29,49,55,62,visual,3,Practice regularly
+ST-113,male,32,26,59,47,53,54,auditory,5,Study more
+ST-114,female,99,44,20,54,58,51,kinesthetic,1,Practice regularly
+ST-115,female,72,23,21,100,100,99,visual,1,Ask questions
+ST-116,male,70,32,53,74,77,84,visual,1,Join study group
+ST-117,female,89,69,55,82,85,75,visual,3,Practice regularly
+ST-118,female,69,69,52,79,82,78,kinesthetic,4,Practice regularly
+ST-119,female,95,59,58,61,63,51,visual,1,Study more
+ST-120,female,93,24,37,65,69,55,visual,1,Ask questions
+ST-121,female,70,31,24,89,92,79,kinesthetic,1,Practice regularly
+ST-122,male,61,94,46,92,89,91,kinesthetic,4,Join study group
+ST-123,female,30,36,41,93,93,88,visual,2,Practice regularly
+ST-124,male,73,26,43,56,57,63,auditory,3,Ask questions
+ST-125,male,81,34,29,73,80,83,visual,1,Join study group
+ST-126,female,64,84,59,86,95,87,kinesthetic,5,Study more
+ST-127,male,73,93,40,67,68,72,kinesthetic,2,Join study group
+ST-128,male,41,69,47,74,77,65,kinesthetic,1,Ask questions
+ST-129,male,84,37,55,74,82,82,auditory,4,Join study group
+ST-130,female,96,75,53,51,49,51,auditory,1,Practice regularly
+ST-131,male,84,67,57,82,84,89,visual,3,Practice regularly
+ST-132,male,50,56,32,40,37,53,auditory,5,Practice regularly
+ST-133,male,48,91,48,70,74,87,kinesthetic,4,Practice regularly
+ST-134,female,56,46,26,84,81,75,kinesthetic,5,Practice regularly
+ST-135,male,35,61,43,75,79,74,kinesthetic,2,Study more
+ST-136,male,23,45,32,48,55,58,kinesthetic,4,Study more
+ST-137,male,20,30,58,41,54,51,kinesthetic,5,Ask questions
+ST-138,male,51,89,34,56,55,70,visual,4,Study more
+ST-139,female,59,64,59,67,66,59,kinesthetic,3,Ask questions
+ST-140,male,25,47,35,69,61,71,visual,2,Study more
+ST-141,female,21,36,55,71,72,76,visual,4,Join study group
+ST-142,female,88,54,54,64,62,59,visual,5,Study more
+ST-143,female,57,77,57,54,55,42,auditory,4,Study more
+ST-144,male,28,96,31,47,43,57,visual,3,Ask questions
+ST-145,male,42,49,48,78,73,88,visual,4,Ask questions
+ST-146,female,74,84,51,33,39,22,visual,3,Study more
+ST-147,male,53,47,32,75,84,88,auditory,4,Study more
+ST-148,male,99,84,57,66,68,73,visual,2,Study more
+ST-149,female,89,73,32,81,75,68,auditory,1,Practice regularly
+ST-150,male,71,48,39,93,100,100,visual,3,Practice regularly
+ST-151,male,51,28,29,69,67,62,auditory,4,Ask questions
+ST-152,male,71,24,45,68,67,77,kinesthetic,4,Join study group
+ST-153,female,58,61,48,66,70,59,visual,3,Study more
+ST-154,male,46,32,57,47,49,54,auditory,2,Practice regularly
+ST-155,male,80,76,44,61,67,62,kinesthetic,2,Join study group
+ST-156,female,64,26,57,88,89,70,visual,1,Practice regularly
+ST-157,female,76,50,35,78,74,66,auditory,1,Practice regularly
+ST-158,male,55,65,21,60,60,60,auditory,2,Study more
+ST-159,female,53,55,24,87,86,61,auditory,3,Study more
+ST-160,male,26,21,24,64,62,66,visual,4,Ask questions
+ST-161,male,65,80,42,74,78,82,kinesthetic,2,Ask questions
+ST-162,female,38,40,35,85,88,75,auditory,4,Ask questions
+ST-163,male,93,43,22,52,53,49,visual,4,Practice regularly
+ST-164,male,93,59,55,49,53,52,kinesthetic,4,Study more
+ST-165,female,70,79,36,91,92,81,kinesthetic,2,Ask questions
+ST-166,female,20,33,20,100,100,96,kinesthetic,4,Join study group
+ST-167,male,56,42,58,51,51,53,visual,4,Study more
+ST-168,female,34,94,57,78,76,58,kinesthetic,2,Study more
+ST-169,female,99,58,49,78,83,68,auditory,2,Ask questions
+ST-170,female,35,57,57,70,75,67,visual,3,Join study group
+ST-171,male,27,48,58,74,73,72,kinesthetic,1,Ask questions
+ST-172,male,59,50,27,78,88,94,kinesthetic,1,Practice regularly
+ST-173,female,54,31,46,81,86,79,auditory,4,Ask questions
+ST-174,female,77,78,27,70,67,63,visual,1,Study more
+ST-175,female,52,75,51,54,51,43,visual,1,Study more
+ST-176,female,28,36,27,87,91,81,auditory,4,Practice regularly
+ST-177,female,58,67,23,58,54,46,visual,4,Practice regularly
+ST-178,female,55,20,29,77,77,71,kinesthetic,1,Ask questions
+ST-179,female,73,83,53,62,70,52,visual,3,Ask questions
+ST-180,female,23,21,46,100,100,97,kinesthetic,4,Study more
+ST-181,male,93,89,45,75,68,62,visual,4,Ask questions
+ST-182,female,52,98,33,66,64,46,auditory,1,Join study group
+ST-183,female,68,27,40,47,50,50,auditory,4,Ask questions
+ST-184,female,67,72,58,70,69,65,auditory,3,Study more
+ST-185,male,80,40,59,49,52,45,visual,1,Join study group
+ST-186,male,74,65,35,65,67,65,visual,5,Study more
+ST-187,male,57,66,48,65,76,80,kinesthetic,1,Join study group
+ST-188,male,96,63,22,68,66,62,kinesthetic,5,Practice regularly
+ST-189,male,22,67,48,45,52,48,auditory,2,Study more
+ST-190,female,20,71,58,87,88,77,auditory,1,Ask questions
+ST-191,female,31,85,21,69,65,66,kinesthetic,5,Join study group
+ST-192,male,71,56,37,79,83,76,kinesthetic,3,Ask questions
+ST-193,female,37,24,56,66,64,62,kinesthetic,5,Join study group
+ST-194,male,67,24,39,62,62,77,kinesthetic,1,Study more
+ST-195,female,61,88,20,85,84,69,auditory,3,Ask questions
+ST-196,male,62,24,32,52,55,61,auditory,1,Ask questions
+ST-197,male,38,93,34,65,69,59,auditory,3,Practice regularly
+ST-198,male,67,50,45,51,56,55,visual,4,Ask questions
+ST-199,female,32,31,43,55,53,45,auditory,5,Ask questions
+ST-200,female,96,92,58,76,79,78,kinesthetic,1,Practice regularly
+ST-201,female,50,84,36,86,84,67,auditory,3,Study more
+ST-202,female,41,20,51,77,81,65,visual,5,Ask questions
+ST-203,male,89,32,33,69,77,69,visual,4,Join study group
+ST-204,female,72,62,54,68,69,57,kinesthetic,4,Study more
+ST-205,male,34,92,44,42,41,59,visual,5,Study more
+ST-206,male,79,27,53,78,71,74,kinesthetic,1,Join study group
+ST-207,male,96,89,56,62,62,82,visual,3,Ask questions
+ST-208,male,68,94,57,76,80,81,visual,2,Practice regularly
+ST-209,female,75,78,26,76,81,74,auditory,1,Practice regularly
+ST-210,female,66,44,48,66,61,58,kinesthetic,5,Study more
+ST-211,male,20,23,56,79,79,80,auditory,2,Ask questions
+ST-212,male,80,22,38,27,28,35,kinesthetic,4,Ask questions
+ST-213,female,92,45,40,60,62,42,kinesthetic,1,Practice regularly
+ST-214,male,40,50,45,56,51,60,auditory,5,Join study group
+ST-215,male,82,21,34,81,91,87,kinesthetic,3,Practice regularly
+ST-216,male,69,20,39,75,83,84,visual,5,Study more
+ST-217,female,58,73,39,88,86,83,kinesthetic,3,Ask questions
+ST-218,female,88,42,29,39,42,34,visual,1,Join study group
+ST-219,male,99,70,20,70,77,66,kinesthetic,4,Ask questions
+ST-220,male,96,81,54,56,56,61,visual,4,Study more
+ST-221,female,95,56,25,74,68,56,visual,3,Study more
+ST-222,male,37,43,37,73,85,87,auditory,4,Practice regularly
+ST-223,female,62,46,20,62,65,55,auditory,1,Study more
+ST-224,male,86,42,56,75,80,86,kinesthetic,4,Study more
+ST-225,female,95,34,58,73,66,52,kinesthetic,4,Join study group
+ST-226,female,44,77,30,54,56,45,kinesthetic,2,Study more
+ST-227,female,60,94,46,71,72,72,kinesthetic,1,Practice regularly
+ST-228,male,64,86,48,54,50,57,auditory,4,Practice regularly
+ST-229,male,79,20,31,64,72,68,kinesthetic,1,Ask questions
+ST-230,female,57,73,37,94,95,88,kinesthetic,1,Join study group
+ST-231,male,54,66,25,66,64,76,visual,4,Study more
+ST-232,male,33,44,28,42,43,46,auditory,5,Join study group
+ST-233,female,71,59,30,83,86,67,auditory,3,Ask questions
+ST-234,male,35,93,52,78,87,92,visual,2,Ask questions
+ST-235,male,24,52,28,84,82,83,auditory,2,Practice regularly
+ST-236,male,66,68,20,77,75,80,auditory,2,Practice regularly
+ST-237,male,46,79,56,67,66,63,visual,1,Join study group
+ST-238,female,93,52,29,74,60,64,kinesthetic,2,Ask questions
+ST-239,male,51,35,40,51,52,54,auditory,5,Study more
+ST-240,male,88,46,30,80,80,84,kinesthetic,3,Study more
+ST-241,male,56,23,36,66,68,73,auditory,2,Study more
+ST-242,female,86,46,35,83,83,80,auditory,3,Join study group
+ST-243,female,74,65,47,55,52,56,auditory,2,Join study group
+ST-244,male,88,68,26,43,51,59,visual,2,Join study group
+ST-245,male,40,75,57,69,74,75,visual,5,Join study group
+ST-246,male,64,67,21,71,76,85,visual,2,Join study group
+ST-247,male,72,86,56,74,76,89,auditory,4,Ask questions
+ST-248,female,91,46,49,68,70,58,auditory,1,Practice regularly
+ST-249,female,49,39,35,62,64,65,auditory,1,Join study group
+ST-250,male,82,55,53,53,60,68,auditory,3,Join study group
+ST-251,male,69,56,50,49,49,47,kinesthetic,5,Join study group
+ST-252,female,28,34,58,83,83,71,kinesthetic,3,Join study group
+ST-253,female,39,59,39,70,70,60,auditory,5,Practice regularly
+ST-254,male,66,91,28,72,80,80,visual,1,Ask questions
+ST-255,male,48,57,41,52,52,54,visual,1,Join study group
+ST-256,female,77,94,48,70,73,62,visual,3,Ask questions
+ST-257,female,35,47,40,68,73,64,kinesthetic,2,Study more
+ST-258,male,85,50,24,77,77,78,auditory,5,Practice regularly
+ST-259,female,52,61,21,78,75,70,kinesthetic,2,Ask questions
+ST-260,female,35,55,49,81,81,65,visual,4,Study more
+ST-261,female,74,98,24,77,79,64,auditory,5,Join study group
+ST-262,male,91,96,29,78,79,79,kinesthetic,1,Study more
+ST-263,female,56,58,39,51,50,44,kinesthetic,1,Practice regularly
+ST-264,female,30,20,26,90,93,99,visual,5,Study more
+ST-265,male,29,82,49,68,73,76,visual,4,Ask questions
+ST-266,male,26,67,32,41,42,59,auditory,3,Study more
+ST-267,female,80,21,20,81,75,63,kinesthetic,4,Practice regularly
+ST-268,female,54,53,43,77,72,69,kinesthetic,2,Ask questions
+ST-269,female,94,44,32,95,92,88,kinesthetic,2,Practice regularly
+ST-270,female,87,94,54,70,76,71,visual,1,Join study group
+ST-271,male,33,23,47,61,63,69,visual,1,Study more
+ST-272,male,40,47,36,42,49,58,auditory,1,Practice regularly
+ST-273,female,77,85,49,58,53,47,visual,2,Practice regularly
+ST-274,female,45,88,55,71,70,65,visual,3,Study more
+ST-275,male,61,67,56,76,85,88,kinesthetic,2,Study more
+ST-276,male,85,51,50,73,78,83,auditory,3,Study more
+ST-277,female,32,81,44,93,92,85,kinesthetic,4,Practice regularly
+ST-278,female,37,33,41,75,63,59,visual,3,Ask questions
+ST-279,female,66,95,30,80,86,65,visual,1,Study more
+ST-280,male,66,40,59,57,56,73,kinesthetic,4,Practice regularly
+ST-281,male,55,46,56,42,52,53,kinesthetic,1,Study more
+ST-282,male,38,76,56,46,48,45,kinesthetic,3,Ask questions
+ST-283,female,56,95,53,84,79,73,visual,2,Ask questions
+ST-284,female,94,61,38,78,78,70,visual,2,Ask questions
+ST-285,female,30,83,59,46,46,37,auditory,4,Ask questions
+ST-286,male,82,63,47,82,82,81,kinesthetic,2,Ask questions
+ST-287,male,96,56,37,88,82,97,visual,3,Ask questions
+ST-288,female,76,28,33,82,89,67,visual,2,Study more
+ST-289,male,52,96,39,76,75,88,auditory,3,Practice regularly
+ST-290,male,85,75,59,77,76,77,kinesthetic,4,Study more
+ST-291,male,87,23,25,68,70,76,kinesthetic,1,Ask questions
+ST-292,male,70,30,44,70,73,86,visual,5,Study more
+ST-293,male,71,38,21,57,60,63,auditory,3,Practice regularly
+ST-294,female,82,32,50,75,73,65,kinesthetic,5,Practice regularly
+ST-295,male,22,65,23,80,77,78,kinesthetic,3,Practice regularly
+ST-296,male,93,39,31,60,62,67,kinesthetic,4,Practice regularly
+ST-297,male,34,41,33,43,41,46,kinesthetic,5,Practice regularly
+ST-298,male,63,82,35,68,74,71,auditory,4,Join study group
+ST-299,male,66,25,33,50,46,40,auditory,1,Join study group
+ST-300,male,34,83,38,75,87,90,auditory,2,Practice regularly
+ST-301,male,78,70,28,81,78,81,auditory,2,Ask questions
+ST-302,male,49,94,43,52,54,56,auditory,4,Study more
+ST-303,female,38,72,33,81,84,67,auditory,4,Ask questions
+ST-304,male,94,92,49,64,76,80,kinesthetic,4,Practice regularly
+ST-305,female,85,66,40,83,75,74,auditory,4,Ask questions
+ST-306,male,57,87,35,69,67,69,kinesthetic,1,Join study group
+ST-307,male,33,92,45,81,87,99,kinesthetic,2,Study more
+ST-308,male,41,88,33,44,52,51,auditory,3,Ask questions
+ST-309,female,78,43,37,67,71,53,visual,5,Ask questions
+ST-310,female,57,54,57,52,57,49,kinesthetic,3,Study more
+ST-311,female,35,20,27,80,76,73,kinesthetic,5,Practice regularly
+ST-312,male,73,55,48,57,60,66,kinesthetic,2,Join study group
+ST-313,male,44,65,52,68,61,67,auditory,4,Ask questions
+ST-314,female,93,33,22,69,67,68,kinesthetic,4,Join study group
+ST-315,female,99,97,22,75,64,59,kinesthetic,4,Join study group
+ST-316,male,55,96,59,65,66,71,auditory,1,Practice regularly
+ST-317,female,67,55,49,91,82,77,kinesthetic,5,Study more
+ST-318,male,87,24,56,78,72,83,visual,3,Practice regularly
+ST-319,male,75,82,29,69,71,63,auditory,3,Study more
+ST-320,female,36,65,33,63,65,56,visual,2,Study more
+ST-321,female,58,97,41,84,79,67,kinesthetic,1,Ask questions
+ST-322,female,73,50,45,79,86,75,auditory,4,Join study group
+ST-323,female,91,22,21,80,81,71,visual,1,Study more
+ST-324,female,39,99,28,53,53,43,auditory,2,Study more
+ST-325,female,51,95,28,43,46,41,kinesthetic,5,Ask questions
+ST-326,female,71,49,44,94,90,82,auditory,2,Practice regularly
+ST-327,male,64,96,44,62,61,61,auditory,2,Join study group
+ST-328,male,92,43,20,19,23,28,visual,3,Practice regularly
+ST-329,male,96,87,47,77,75,82,visual,1,Practice regularly
+ST-330,female,60,65,59,51,55,41,kinesthetic,2,Practice regularly
+ST-331,male,35,90,54,61,60,71,visual,4,Join study group
+ST-332,male,60,59,55,35,37,47,kinesthetic,1,Ask questions
+ST-333,male,44,69,49,53,56,62,auditory,4,Practice regularly
+ST-334,male,86,65,29,81,78,90,auditory,1,Ask questions
+ST-335,female,40,56,46,95,93,83,kinesthetic,2,Ask questions
+ST-336,female,22,24,48,66,68,61,visual,2,Study more
+ST-337,male,36,24,50,69,70,76,auditory,5,Join study group
+ST-338,male,23,76,47,43,51,49,auditory,5,Practice regularly
+ST-339,female,74,86,24,27,38,24,kinesthetic,2,Join study group
+ST-340,female,74,96,26,60,55,35,auditory,1,Study more
+ST-341,male,41,68,41,52,61,58,auditory,5,Join study group
+ST-342,female,75,22,20,63,73,61,kinesthetic,5,Join study group
+ST-343,female,90,59,59,74,76,69,visual,3,Practice regularly
+ST-344,male,51,98,46,67,72,67,auditory,4,Ask questions
+ST-345,male,61,59,21,67,73,79,auditory,2,Study more
+ST-346,female,29,76,32,75,80,72,kinesthetic,5,Join study group
+ST-347,male,62,49,32,57,61,62,visual,4,Ask questions
+ST-348,female,23,54,50,95,94,77,auditory,3,Join study group
+ST-349,male,77,21,53,66,74,75,auditory,5,Study more
+ST-350,male,72,47,55,76,74,87,kinesthetic,4,Join study group
+ST-351,female,79,83,40,69,65,52,kinesthetic,2,Practice regularly
+ST-352,male,41,40,37,52,57,66,auditory,1,Practice regularly
+ST-353,female,66,37,59,80,78,63,visual,4,Ask questions
+ST-354,female,39,29,53,57,58,46,auditory,4,Join study group
+ST-355,female,34,36,23,70,71,59,visual,5,Join study group
+ST-356,female,49,93,37,70,72,61,visual,4,Ask questions
+ST-357,male,53,78,41,61,61,63,kinesthetic,5,Study more
+ST-358,female,76,69,41,69,66,42,kinesthetic,5,Join study group
+ST-359,male,39,67,27,61,62,59,auditory,4,Study more
+ST-360,female,86,72,39,89,90,80,auditory,3,Study more
+ST-361,female,75,41,20,59,62,58,visual,4,Study more
+ST-362,male,61,44,59,78,84,85,visual,3,Practice regularly
+ST-363,female,66,38,20,58,58,52,auditory,4,Ask questions
+ST-364,female,49,66,20,32,34,27,visual,1,Practice regularly
+ST-365,male,51,25,22,58,60,59,kinesthetic,4,Practice regularly
+ST-366,male,83,38,47,60,58,49,visual,5,Join study group
+ST-367,male,79,77,29,53,58,69,kinesthetic,4,Ask questions
+ST-368,male,88,53,49,61,66,61,visual,3,Join study group
+ST-369,female,99,36,37,58,64,44,visual,2,Join study group
+ST-370,female,88,23,50,85,84,73,kinesthetic,5,Study more
+ST-371,male,48,95,58,71,77,84,visual,5,Practice regularly
+ST-372,female,89,25,27,70,73,45,kinesthetic,1,Practice regularly
+ST-373,male,35,80,32,72,74,74,kinesthetic,5,Practice regularly
+ST-374,female,90,20,35,96,97,82,auditory,4,Practice regularly
+ST-375,female,91,25,56,73,70,59,auditory,4,Study more
+ST-376,male,32,60,30,41,43,46,visual,5,Study more
+ST-377,female,39,49,39,82,90,80,visual,1,Practice regularly
+ST-378,female,57,95,41,100,95,85,kinesthetic,5,Practice regularly
+ST-379,female,28,84,30,77,83,71,kinesthetic,1,Study more
+ST-380,male,28,79,24,62,64,66,visual,1,Practice regularly
+ST-381,female,35,88,39,83,86,80,kinesthetic,3,Join study group
+ST-382,male,37,20,26,95,100,87,visual,2,Study more
+ST-383,male,82,82,51,71,81,79,visual,4,Study more
+ST-384,female,94,95,54,45,49,38,visual,1,Join study group
+ST-385,female,84,59,51,43,43,38,auditory,3,Study more
+ST-386,female,89,30,47,75,76,67,auditory,3,Study more
+ST-387,female,49,88,21,70,73,64,kinesthetic,2,Study more
+ST-388,female,59,69,47,67,78,57,visual,3,Study more
+ST-389,female,95,59,39,64,64,62,kinesthetic,3,Join study group
+ST-390,male,48,85,46,75,70,73,visual,3,Study more
+ST-391,male,29,22,43,59,67,73,visual,2,Ask questions
+ST-392,female,37,61,39,77,68,77,visual,3,Join study group
+ST-393,male,66,33,33,67,67,76,kinesthetic,2,Study more
+ST-394,male,87,29,48,56,54,57,visual,1,Practice regularly
+ST-395,female,53,43,31,77,74,65,kinesthetic,5,Practice regularly
+ST-396,male,28,44,42,41,45,48,kinesthetic,1,Practice regularly
+ST-397,female,49,22,53,63,67,50,auditory,5,Join study group
+ST-398,female,84,35,31,95,89,85,kinesthetic,2,Study more
+ST-399,male,85,59,25,57,63,74,auditory,4,Practice regularly
+ST-400,male,82,42,37,54,59,60,kinesthetic,2,Join study group
+ST-401,female,48,23,50,67,54,59,kinesthetic,3,Practice regularly
+ST-402,male,81,80,22,43,43,53,kinesthetic,3,Ask questions
+ST-403,female,90,87,40,55,65,49,visual,1,Practice regularly
+ST-404,female,75,36,59,100,99,88,kinesthetic,1,Practice regularly
+ST-405,female,76,93,25,62,59,54,visual,4,Practice regularly
+ST-406,female,37,33,48,68,73,63,visual,3,Join study group
+ST-407,male,88,32,33,63,65,65,kinesthetic,1,Practice regularly
+ST-408,female,60,43,26,77,80,82,kinesthetic,5,Ask questions
+ST-409,female,28,24,31,56,57,52,auditory,2,Join study group
+ST-410,male,83,23,24,85,84,87,auditory,3,Practice regularly
+ST-411,female,82,91,22,74,71,70,visual,4,Join study group
+ST-412,male,52,43,29,78,83,84,kinesthetic,5,Join study group
+ST-413,male,29,53,55,60,66,71,kinesthetic,3,Ask questions
+ST-414,male,65,55,28,67,67,63,auditory,3,Ask questions
+ST-415,female,26,72,52,79,72,51,auditory,3,Ask questions
+ST-416,male,38,68,53,69,73,84,auditory,5,Practice regularly
+ST-417,male,80,62,32,68,74,71,kinesthetic,1,Practice regularly
+ST-418,male,93,76,43,67,73,74,auditory,2,Join study group
+ST-419,male,85,45,46,62,59,68,visual,2,Ask questions
+ST-420,male,23,63,24,54,56,57,auditory,5,Ask questions
+ST-421,female,32,77,57,93,93,82,auditory,1,Practice regularly
+ST-422,female,93,89,22,64,58,57,auditory,1,Join study group
+ST-423,female,59,95,30,67,58,47,auditory,4,Practice regularly
+ST-424,female,50,49,26,80,85,59,auditory,3,Study more
+ST-425,male,71,79,48,34,39,41,kinesthetic,2,Join study group
+ST-426,female,53,92,40,62,67,62,kinesthetic,5,Join study group
+ST-427,male,27,44,55,86,83,86,visual,3,Ask questions
+ST-428,male,46,93,20,65,71,69,auditory,5,Ask questions
+ST-429,male,53,97,48,53,59,65,auditory,3,Join study group
+ST-430,male,48,68,58,54,63,68,auditory,4,Study more
+ST-431,male,36,96,21,59,66,64,visual,5,Study more
+ST-432,female,98,88,30,70,72,61,auditory,3,Ask questions
+ST-433,male,93,49,21,55,56,61,kinesthetic,3,Study more
+ST-434,female,74,47,52,50,59,47,visual,3,Practice regularly
+ST-435,male,22,46,58,66,66,73,visual,1,Join study group
+ST-436,male,77,62,58,53,48,50,auditory,1,Ask questions
+ST-437,male,99,80,36,64,68,75,auditory,1,Join study group
+ST-438,male,35,35,24,73,66,75,auditory,5,Practice regularly
+ST-439,male,21,60,56,51,56,70,auditory,4,Join study group
+ST-440,male,30,95,28,82,88,89,auditory,2,Join study group
+ST-441,female,59,80,36,79,81,67,kinesthetic,2,Join study group
+ST-442,female,93,76,38,80,81,78,kinesthetic,2,Study more
+ST-443,female,74,37,59,69,73,59,visual,2,Ask questions
+ST-444,female,94,62,45,76,83,73,kinesthetic,4,Practice regularly
+ST-445,male,75,45,45,73,82,79,kinesthetic,1,Study more
+ST-446,female,32,86,52,77,74,67,kinesthetic,1,Practice regularly
+ST-447,male,56,77,46,60,66,69,auditory,3,Ask questions
+ST-448,male,62,99,43,80,81,86,auditory,4,Study more
+ST-449,male,52,53,45,42,46,47,kinesthetic,4,Join study group
+ST-450,male,67,26,27,72,73,81,auditory,5,Study more
+ST-451,female,67,63,31,85,85,64,kinesthetic,5,Ask questions
+ST-452,female,83,34,53,97,92,100,auditory,3,Ask questions
+ST-453,female,54,99,53,74,77,65,kinesthetic,2,Practice regularly
+ST-454,male,91,87,36,49,58,65,visual,3,Join study group
+ST-455,female,79,62,22,62,61,53,auditory,5,Ask questions
+ST-456,male,40,76,43,47,56,37,visual,1,Ask questions
+ST-457,female,24,47,52,89,89,79,kinesthetic,5,Ask questions
+ST-458,male,96,30,59,48,54,53,kinesthetic,5,Ask questions
+ST-459,female,49,56,38,100,100,100,kinesthetic,1,Join study group
+ST-460,male,94,67,56,68,65,72,auditory,5,Study more
+ST-461,male,80,25,39,55,58,53,visual,3,Ask questions
+ST-462,male,43,27,24,45,54,54,auditory,4,Practice regularly
+ST-463,female,30,36,43,76,70,71,auditory,2,Study more
+ST-464,female,78,73,40,91,90,77,kinesthetic,4,Join study group
+ST-465,male,32,71,29,62,58,75,auditory,2,Ask questions
+ST-466,female,89,56,53,91,87,84,visual,1,Ask questions
+ST-467,female,67,92,57,38,31,26,kinesthetic,5,Practice regularly
+ST-468,male,68,36,59,65,67,72,auditory,4,Practice regularly
+ST-469,female,84,25,47,85,88,77,visual,5,Join study group
+ST-470,male,53,64,22,76,74,91,kinesthetic,2,Ask questions
+ST-471,female,52,88,32,90,85,83,kinesthetic,2,Study more
+ST-472,female,42,62,35,74,69,63,kinesthetic,1,Practice regularly
+ST-473,female,36,69,35,84,86,68,auditory,1,Ask questions
+ST-474,female,24,22,34,61,67,59,visual,1,Study more
+ST-475,female,37,65,34,91,90,90,kinesthetic,1,Practice regularly
+ST-476,female,27,24,36,83,76,71,kinesthetic,2,Ask questions
+ST-477,male,91,20,45,66,62,76,visual,3,Practice regularly
+ST-478,male,90,83,20,72,68,80,kinesthetic,1,Study more
+ST-479,female,79,85,29,70,64,55,visual,1,Ask questions
+ST-480,male,73,51,25,67,71,76,visual,1,Ask questions
+ST-481,male,86,55,33,68,71,73,kinesthetic,4,Join study group
+ST-482,female,87,29,51,56,59,52,visual,2,Practice regularly
+ST-483,male,44,36,34,61,68,68,visual,1,Study more
+ST-484,male,33,23,53,46,52,59,visual,5,Join study group
+ST-485,female,64,38,40,54,52,49,kinesthetic,1,Join study group
+ST-486,male,60,81,51,71,74,70,visual,1,Join study group
+ST-487,male,84,60,37,56,47,61,auditory,3,Practice regularly
+ST-488,female,80,86,22,74,75,60,auditory,4,Join study group
+ST-489,male,98,60,57,57,53,64,visual,2,Practice regularly
+ST-490,male,54,33,59,82,82,79,kinesthetic,3,Study more
+ST-491,female,31,85,54,76,85,65,kinesthetic,2,Practice regularly
+ST-492,female,39,35,54,70,64,64,kinesthetic,1,Study more
+ST-493,female,75,59,21,90,83,83,auditory,2,Ask questions
+ST-494,female,70,24,40,90,88,81,visual,3,Study more
+ST-495,female,51,78,57,68,64,54,auditory,4,Ask questions
+ST-496,male,59,44,32,66,64,68,kinesthetic,1,Practice regularly
+ST-497,female,72,50,32,52,48,54,auditory,3,Practice regularly
+ST-498,female,49,70,40,76,78,59,visual,5,Study more
+ST-499,female,81,84,29,68,69,66,auditory,2,Study more
+ST-500,male,37,94,53,72,71,76,kinesthetic,4,Join study group
+ST-501,female,61,87,31,82,79,74,visual,2,Practice regularly
+ST-502,female,75,85,23,92,87,94,kinesthetic,2,Study more
+ST-503,male,67,22,28,54,61,63,visual,3,Study more
+ST-504,female,45,52,38,92,89,95,kinesthetic,4,Join study group
+ST-505,female,60,75,57,54,59,40,visual,4,Practice regularly
+ST-506,female,88,49,38,80,82,82,visual,3,Join study group
+ST-507,male,38,81,30,66,70,68,auditory,2,Practice regularly
+ST-508,male,44,93,25,54,59,55,kinesthetic,1,Join study group
+ST-509,male,93,25,39,77,78,79,kinesthetic,4,Study more
+ST-510,female,86,20,54,87,92,86,visual,3,Ask questions
+ST-511,male,38,35,59,73,71,76,visual,4,Ask questions
+ST-512,male,50,85,27,43,50,64,visual,3,Ask questions
+ST-513,male,22,70,40,52,49,62,auditory,2,Join study group
+ST-514,female,76,68,38,62,61,54,visual,2,Join study group
+ST-515,female,46,44,33,94,97,77,visual,3,Ask questions
+ST-516,female,32,25,20,85,87,76,kinesthetic,5,Practice regularly
+ST-517,female,61,42,58,84,89,74,kinesthetic,5,Study more
+ST-518,female,90,86,42,73,74,66,visual,1,Ask questions
+ST-519,female,63,81,50,78,78,66,auditory,4,Ask questions
+ST-520,female,20,51,30,79,78,67,kinesthetic,1,Study more
+ST-521,male,29,98,24,52,49,71,kinesthetic,3,Study more
+ST-522,female,40,43,42,84,86,91,kinesthetic,4,Join study group
+ST-523,male,52,37,30,57,58,69,auditory,3,Practice regularly
+ST-524,male,46,60,35,50,59,54,auditory,1,Ask questions
+ST-525,male,87,70,42,49,52,53,kinesthetic,1,Ask questions
+ST-526,male,55,32,31,59,60,68,auditory,2,Ask questions
+ST-527,male,79,94,20,60,61,56,auditory,1,Ask questions
+ST-528,female,88,64,59,43,53,36,kinesthetic,1,Ask questions
+ST-529,female,20,22,57,47,41,29,kinesthetic,3,Study more
+ST-530,female,74,98,21,70,74,62,kinesthetic,4,Study more
+ST-531,female,39,28,26,73,67,68,kinesthetic,3,Practice regularly
+ST-532,female,97,65,25,53,54,47,visual,5,Ask questions
+ST-533,male,51,58,26,58,61,62,auditory,4,Join study group
+ST-534,female,58,66,42,94,88,79,visual,2,Ask questions
+ST-535,male,40,68,27,68,69,73,kinesthetic,5,Study more
+ST-536,female,49,20,48,83,83,66,kinesthetic,1,Join study group
+ST-537,male,54,68,28,58,60,51,kinesthetic,4,Study more
+ST-538,female,47,77,21,62,66,51,visual,3,Practice regularly
+ST-539,male,92,37,30,71,66,85,visual,5,Ask questions
+ST-540,male,84,43,31,86,92,97,auditory,2,Practice regularly
+ST-541,male,44,31,21,68,69,75,visual,4,Ask questions
+ST-542,male,71,96,41,80,82,79,auditory,5,Ask questions
+ST-543,female,84,73,26,79,77,81,kinesthetic,3,Practice regularly
+ST-544,female,74,90,27,89,95,82,kinesthetic,5,Practice regularly
+ST-545,female,73,29,23,66,63,64,visual,3,Study more
+ST-546,male,37,53,36,80,83,78,visual,3,Ask questions
+ST-547,female,94,62,45,97,100,92,visual,1,Join study group
+ST-548,male,70,50,21,64,67,72,visual,2,Join study group
+ST-549,female,33,34,39,64,67,62,auditory,2,Join study group
+ST-550,male,31,80,53,69,72,79,kinesthetic,4,Practice regularly
+ST-551,male,24,88,29,65,76,79,kinesthetic,5,Study more
+ST-552,male,66,32,51,88,90,87,auditory,4,Practice regularly
+ST-553,female,89,64,29,50,48,40,visual,2,Study more
+ST-554,male,95,30,52,64,62,77,kinesthetic,5,Practice regularly
+ST-555,male,24,40,28,40,45,53,kinesthetic,5,Practice regularly
+ST-556,female,61,46,51,33,39,32,kinesthetic,1,Ask questions
+ST-557,female,66,59,29,79,72,55,kinesthetic,2,Practice regularly
+ST-558,male,97,36,38,66,67,61,auditory,4,Practice regularly
+ST-559,female,96,77,34,70,70,53,visual,1,Ask questions
+ST-560,male,29,46,24,62,66,73,kinesthetic,2,Practice regularly
+ST-561,female,28,84,20,79,75,74,auditory,1,Join study group
+ST-562,female,31,68,32,74,74,63,kinesthetic,5,Ask questions
+ST-563,male,60,77,45,92,90,96,kinesthetic,1,Ask questions
+ST-564,female,34,34,49,80,80,63,visual,2,Ask questions
+ST-565,male,92,94,51,46,51,48,auditory,5,Practice regularly
+ST-566,male,97,46,38,45,43,48,auditory,2,Study more
+ST-567,female,98,46,22,100,100,92,visual,2,Study more
+ST-568,female,43,72,48,78,71,61,visual,4,Join study group
+ST-569,male,82,25,27,47,48,63,kinesthetic,4,Join study group
+ST-570,male,30,78,46,67,68,68,visual,4,Study more
+ST-571,male,84,81,36,70,75,71,kinesthetic,4,Practice regularly
+ST-572,male,20,96,51,92,96,91,kinesthetic,4,Study more
+ST-573,female,80,78,47,56,62,53,auditory,1,Practice regularly
+ST-574,female,62,42,53,64,66,50,visual,3,Join study group
+ST-575,female,97,49,48,71,81,74,kinesthetic,2,Join study group
+ST-576,male,67,65,51,53,55,40,visual,3,Study more
+ST-577,male,76,93,52,52,51,61,visual,5,Join study group
+ST-578,female,41,85,55,89,91,81,auditory,5,Ask questions
+ST-579,female,43,70,25,58,56,48,auditory,4,Study more
+ST-580,female,38,57,24,68,61,53,visual,1,Study more
+ST-581,female,78,90,25,96,97,81,visual,1,Practice regularly
+ST-582,female,88,72,39,80,79,77,visual,3,Join study group
+ST-583,female,29,49,33,78,73,63,auditory,2,Study more
+ST-584,female,72,44,32,80,75,73,auditory,4,Practice regularly
+ST-585,female,52,73,31,77,77,69,auditory,3,Practice regularly
+ST-586,female,88,65,58,76,76,65,auditory,4,Study more
+ST-587,female,22,86,52,73,73,55,kinesthetic,4,Ask questions
+ST-588,female,75,47,30,62,63,44,auditory,4,Study more
+ST-589,female,50,76,28,65,64,54,kinesthetic,5,Join study group
+ST-590,female,57,26,20,65,66,48,auditory,1,Practice regularly
+ST-591,male,98,39,50,54,57,58,visual,4,Ask questions
+ST-592,male,26,76,58,50,62,71,kinesthetic,5,Join study group
+ST-593,male,20,63,59,64,68,68,auditory,2,Practice regularly
+ST-594,female,71,43,50,73,76,74,visual,5,Practice regularly
+ST-595,female,94,45,38,99,100,92,kinesthetic,1,Study more
+ST-596,female,84,88,50,72,79,56,visual,3,Join study group
+ST-597,male,61,32,26,15,24,30,visual,3,Study more
+ST-598,male,51,74,21,48,54,53,kinesthetic,2,Ask questions
+ST-599,female,44,58,40,73,77,69,kinesthetic,1,Join study group
+ST-600,female,34,72,59,81,82,65,auditory,3,Join study group
+ST-601,female,53,91,41,63,60,54,visual,2,Join study group
+ST-602,female,55,46,45,30,29,29,kinesthetic,2,Ask questions
+ST-603,female,55,28,53,80,78,76,auditory,2,Practice regularly
+ST-604,male,51,41,44,51,57,60,visual,2,Practice regularly
+ST-605,male,29,35,58,90,89,84,auditory,3,Study more
+ST-606,male,86,31,26,62,72,75,auditory,5,Ask questions
+ST-607,female,67,24,25,82,84,85,kinesthetic,2,Practice regularly
+ST-608,female,39,37,49,54,58,40,visual,3,Practice regularly
+ST-609,female,81,34,24,62,64,61,kinesthetic,1,Practice regularly
+ST-610,female,73,22,51,65,63,58,visual,2,Ask questions
+ST-611,male,59,40,58,63,60,69,kinesthetic,2,Practice regularly
+ST-612,female,94,64,58,66,59,58,visual,1,Join study group
+ST-613,male,30,38,32,91,90,94,kinesthetic,3,Study more
+ST-614,female,77,66,43,74,77,65,kinesthetic,5,Join study group
+ST-615,female,39,52,52,93,93,82,auditory,2,Practice regularly
+ST-616,female,43,21,29,72,68,60,auditory,1,Ask questions
+ST-617,female,57,45,21,38,45,37,visual,1,Ask questions
+ST-618,male,60,55,58,83,78,88,kinesthetic,2,Ask questions
+ST-619,male,37,95,30,84,81,95,visual,1,Study more
+ST-620,male,64,88,31,68,73,65,kinesthetic,3,Study more
+ST-621,female,97,67,37,54,61,35,auditory,4,Practice regularly
+ST-622,male,35,83,21,56,63,62,visual,2,Study more
+ST-623,male,75,69,47,52,51,58,auditory,3,Study more
+ST-624,male,85,89,23,86,96,100,kinesthetic,5,Study more
+ST-625,female,30,38,35,62,58,61,kinesthetic,4,Practice regularly
+ST-626,male,93,35,31,99,97,100,auditory,5,Practice regularly
+ST-627,male,43,67,36,63,70,69,visual,3,Join study group
+ST-628,male,50,48,55,46,48,61,kinesthetic,3,Ask questions
+ST-629,male,57,43,36,46,57,49,auditory,4,Practice regularly
+ST-630,female,45,33,40,55,51,44,visual,1,Ask questions
+ST-631,male,51,97,50,70,64,67,auditory,4,Join study group
+ST-632,male,73,31,55,65,60,79,kinesthetic,2,Study more
+ST-633,female,49,96,40,81,74,66,kinesthetic,2,Ask questions
+ST-634,female,36,94,26,85,88,75,visual,4,Study more
+ST-635,male,20,25,43,80,84,84,kinesthetic,1,Join study group
+ST-636,male,89,96,57,64,74,71,visual,4,Ask questions
+ST-637,female,34,30,51,81,80,67,auditory,2,Join study group
+ST-638,female,38,61,49,88,92,80,visual,2,Ask questions
+ST-639,male,28,75,28,74,76,86,auditory,2,Study more
+ST-640,female,86,47,43,73,74,76,auditory,2,Practice regularly
+ST-641,male,50,82,35,51,52,41,auditory,1,Join study group
+ST-642,female,40,71,21,90,88,74,visual,4,Ask questions
+ST-643,female,60,69,33,79,81,72,auditory,2,Practice regularly
+ST-644,female,68,77,49,80,79,74,kinesthetic,4,Practice regularly
+ST-645,male,57,61,36,60,65,70,visual,5,Practice regularly
+ST-646,female,51,30,59,81,81,65,kinesthetic,2,Ask questions
+ST-647,female,46,81,22,65,70,59,kinesthetic,3,Practice regularly
+ST-648,female,32,50,49,68,62,64,visual,3,Study more
+ST-649,female,33,80,24,55,53,50,auditory,1,Practice regularly
+ST-650,female,46,85,51,81,79,69,auditory,5,Ask questions
+ST-651,male,39,32,40,53,56,51,auditory,5,Join study group
+ST-652,female,72,25,35,76,80,68,auditory,2,Ask questions
+ST-653,female,37,79,28,98,86,85,kinesthetic,1,Practice regularly
+ST-654,female,42,95,36,74,70,65,visual,3,Practice regularly
+ST-655,female,80,51,55,79,79,73,auditory,3,Ask questions
+ST-656,female,68,56,42,67,67,62,auditory,1,Practice regularly
+ST-657,male,69,43,24,64,67,77,kinesthetic,5,Ask questions
+ST-658,male,77,84,52,61,66,69,visual,1,Join study group
+ST-659,female,47,49,49,58,60,43,kinesthetic,4,Ask questions
+ST-660,male,66,85,41,85,87,90,kinesthetic,2,Study more
+ST-661,male,84,40,21,73,77,74,kinesthetic,3,Ask questions
+ST-662,male,96,91,27,63,66,73,kinesthetic,4,Ask questions
+ST-663,female,93,39,27,69,71,55,auditory,4,Join study group
+ST-664,female,71,23,37,67,69,65,visual,4,Ask questions
+ST-665,male,49,89,55,63,63,80,visual,1,Join study group
+ST-666,female,61,65,34,60,60,50,auditory,5,Ask questions
+ST-667,female,37,38,22,71,73,63,visual,2,Study more
+ST-668,female,66,57,46,87,85,77,auditory,1,Study more
+ST-669,male,99,37,36,61,74,73,auditory,5,Ask questions
+ST-670,male,84,95,57,77,72,81,kinesthetic,1,Practice regularly
+ST-671,female,77,94,40,68,76,66,visual,5,Ask questions
+ST-672,male,70,69,48,50,57,52,auditory,1,Ask questions
+ST-673,female,83,45,21,76,78,69,kinesthetic,1,Practice regularly
+ST-674,female,71,46,40,84,84,65,auditory,5,Study more
+ST-675,female,36,50,24,78,77,69,auditory,3,Practice regularly
+ST-676,female,60,97,31,66,64,50,kinesthetic,2,Practice regularly
+ST-677,female,64,36,27,76,78,73,kinesthetic,5,Ask questions
+ST-678,female,22,35,31,76,82,70,kinesthetic,2,Join study group
+ST-679,male,74,88,47,78,75,81,visual,3,Join study group
+ST-680,male,20,62,52,60,61,63,kinesthetic,1,Study more
+ST-681,female,34,91,57,74,72,67,auditory,1,Practice regularly
+ST-682,male,37,76,48,60,68,60,visual,1,Study more
+ST-683,male,34,40,23,54,55,62,visual,2,Study more
+ST-684,female,94,70,28,44,40,29,auditory,1,Ask questions
+ST-685,male,97,42,30,68,66,62,kinesthetic,2,Join study group
+ST-686,female,25,48,30,100,99,94,auditory,5,Join study group
+ST-687,male,96,73,27,68,75,85,visual,5,Ask questions
+ST-688,male,28,21,52,73,78,77,auditory,4,Ask questions
+ST-689,male,66,46,38,44,58,53,auditory,4,Practice regularly
+ST-690,male,27,89,45,83,90,93,kinesthetic,4,Practice regularly
+ST-691,female,36,37,33,53,53,49,kinesthetic,3,Ask questions
+ST-692,female,40,96,21,78,76,73,auditory,2,Study more
+ST-693,female,48,84,28,81,74,66,auditory,5,Practice regularly
+ST-694,female,62,36,35,73,77,77,visual,1,Ask questions
+ST-695,female,67,95,50,56,63,49,visual,5,Practice regularly
+ST-696,female,26,86,34,86,89,79,visual,1,Join study group
+ST-697,female,90,47,20,90,82,75,auditory,2,Practice regularly
+ST-698,female,77,65,25,70,72,59,auditory,1,Practice regularly
+ST-699,female,50,57,38,79,78,57,auditory,3,Study more
+ST-700,male,47,55,53,59,66,66,kinesthetic,4,Study more
+ST-701,female,48,43,56,82,81,79,visual,3,Study more
+ST-702,female,68,26,42,72,67,57,visual,3,Ask questions
+ST-703,male,62,47,35,87,84,87,auditory,1,Practice regularly
+ST-704,female,83,69,27,67,64,63,auditory,3,Practice regularly
+ST-705,female,37,79,59,64,63,59,kinesthetic,3,Study more
+ST-706,male,80,76,25,65,72,62,visual,5,Study more
+ST-707,male,54,77,20,36,34,46,visual,5,Ask questions
+ST-708,male,58,52,50,52,59,66,auditory,3,Join study group
+ST-709,male,24,83,52,79,87,89,auditory,3,Join study group
+ST-710,female,86,29,49,58,61,42,kinesthetic,3,Study more
+ST-711,male,83,26,59,90,84,93,auditory,3,Study more
+ST-712,female,93,97,31,85,85,80,auditory,5,Study more
+ST-713,female,25,77,51,99,100,98,visual,4,Practice regularly
+ST-714,male,29,93,28,84,81,81,kinesthetic,4,Study more
+ST-715,female,29,20,24,74,70,60,kinesthetic,1,Join study group
+ST-716,female,71,75,29,87,94,76,visual,4,Practice regularly
+ST-717,male,25,31,43,72,78,73,visual,4,Join study group
+ST-718,female,62,23,22,99,96,96,kinesthetic,2,Study more
+ST-719,female,49,32,37,74,76,76,kinesthetic,1,Study more
+ST-720,male,83,93,49,80,73,91,kinesthetic,1,Ask questions
+ST-721,female,35,45,47,70,72,62,auditory,2,Study more
+ST-722,male,82,35,52,59,59,55,auditory,2,Practice regularly
+ST-723,female,61,43,31,88,90,74,auditory,3,Practice regularly
+ST-724,male,62,42,23,42,48,50,kinesthetic,1,Join study group
+ST-725,male,24,58,20,41,43,47,kinesthetic,1,Ask questions
+ST-726,male,69,42,34,71,74,81,kinesthetic,5,Study more
+ST-727,female,30,60,29,77,75,65,auditory,5,Practice regularly
+ST-728,male,98,80,31,57,51,68,visual,3,Practice regularly
+ST-729,female,87,37,44,84,92,73,auditory,5,Study more
+ST-730,male,35,37,31,37,39,53,auditory,3,Practice regularly
+ST-731,female,89,71,20,80,77,68,visual,2,Join study group
+ST-732,male,98,80,40,43,46,55,kinesthetic,5,Study more
+ST-733,female,47,68,34,94,89,87,auditory,4,Join study group
+ST-734,male,85,39,26,44,47,55,visual,5,Practice regularly
+ST-735,female,79,94,54,57,58,53,kinesthetic,3,Study more
+ST-736,male,85,94,48,59,57,67,auditory,1,Study more
+ST-737,male,51,98,47,84,79,92,kinesthetic,5,Study more
+ST-738,female,93,77,51,73,66,53,visual,1,Practice regularly
+ST-739,male,64,89,54,73,71,81,kinesthetic,4,Ask questions
+ST-740,male,91,21,56,55,60,61,kinesthetic,1,Join study group
+ST-741,male,54,92,36,72,73,80,visual,1,Join study group
+ST-742,female,53,85,42,56,57,37,auditory,5,Join study group
+ST-743,female,78,47,48,82,84,81,kinesthetic,1,Practice regularly
+ST-744,female,84,25,56,72,73,59,auditory,5,Study more
+ST-745,male,83,26,54,47,55,55,visual,1,Join study group
+ST-746,male,77,57,38,74,79,72,auditory,4,Study more
+ST-747,male,51,53,44,71,75,69,auditory,2,Study more
+ST-748,male,23,53,38,68,64,69,auditory,3,Ask questions
+ST-749,female,31,68,30,59,60,50,kinesthetic,5,Join study group
+ST-750,male,21,61,36,86,84,87,kinesthetic,3,Study more
+ST-751,male,81,48,37,68,69,71,auditory,1,Ask questions
+ST-752,male,24,53,57,65,72,68,auditory,3,Ask questions
+ST-753,male,69,27,26,75,77,79,visual,2,Ask questions
+ST-754,female,23,44,21,85,90,77,visual,1,Ask questions
+ST-755,male,78,37,47,53,55,58,visual,2,Join study group
+ST-756,female,63,81,54,92,95,84,kinesthetic,4,Ask questions
+ST-757,male,51,28,50,52,58,55,auditory,3,Study more
+ST-758,male,50,31,22,72,68,70,kinesthetic,2,Ask questions
+ST-759,female,70,45,32,65,59,52,kinesthetic,3,Practice regularly
+ST-760,male,66,52,57,77,77,69,kinesthetic,2,Study more
+ST-761,female,63,64,49,64,72,53,auditory,3,Study more
+ST-762,female,87,60,53,54,58,48,visual,3,Practice regularly
+ST-763,male,93,63,57,86,81,78,kinesthetic,4,Ask questions
+ST-764,female,46,50,37,63,62,62,visual,3,Study more
+ST-765,male,24,64,33,59,63,60,auditory,2,Practice regularly
+ST-766,female,35,52,35,72,72,74,visual,4,Practice regularly
+ST-767,female,56,92,44,77,75,58,visual,4,Ask questions
+ST-768,male,59,58,28,60,62,76,visual,5,Study more
+ST-769,female,59,87,43,75,71,68,auditory,3,Study more
+ST-770,male,40,64,45,57,60,58,visual,5,Practice regularly
+ST-771,male,21,28,47,49,48,52,auditory,2,Join study group
+ST-772,male,45,31,35,74,73,75,visual,4,Ask questions
+ST-773,female,67,91,49,72,67,52,auditory,5,Study more
+ST-774,female,59,47,46,79,78,62,kinesthetic,4,Join study group
+ST-775,male,60,36,53,60,65,66,kinesthetic,2,Practice regularly
+ST-776,female,74,41,31,55,58,49,kinesthetic,5,Join study group
+ST-777,female,86,71,23,70,72,66,visual,5,Ask questions
+ST-778,female,40,78,54,43,44,35,auditory,1,Join study group
+ST-779,female,20,69,24,82,79,72,kinesthetic,1,Practice regularly
+ST-780,male,51,63,46,82,85,94,visual,5,Ask questions
+ST-781,female,40,80,41,57,56,46,kinesthetic,4,Study more
+ST-782,female,94,95,28,84,90,77,auditory,2,Join study group
+ST-783,female,24,53,46,82,85,76,visual,1,Join study group
+ST-784,female,62,80,45,62,59,52,visual,3,Ask questions
+ST-785,male,71,93,44,79,81,91,auditory,4,Join study group
+ST-786,female,52,90,57,44,51,32,auditory,5,Study more
+ST-787,female,90,88,21,77,79,72,kinesthetic,2,Study more
+ST-788,female,78,30,58,32,38,19,visual,1,Join study group
+ST-789,male,25,42,20,61,65,68,auditory,1,Study more
+ST-790,female,52,68,58,61,65,52,kinesthetic,4,Join study group
+ST-791,female,83,97,23,60,62,48,kinesthetic,4,Ask questions
+ST-792,female,81,85,25,70,66,60,visual,3,Study more
+ST-793,male,90,87,54,69,74,66,visual,2,Practice regularly
+ST-794,male,81,91,50,77,84,89,auditory,5,Ask questions
+ST-795,female,23,42,46,51,52,42,auditory,2,Ask questions
+ST-796,female,60,57,31,73,68,57,visual,2,Ask questions
+ST-797,male,76,23,57,70,70,70,visual,4,Join study group
+ST-798,female,85,44,54,81,84,70,kinesthetic,2,Practice regularly
+ST-799,male,76,23,29,54,60,69,kinesthetic,1,Ask questions
+ST-800,female,53,70,25,57,55,52,visual,3,Study more
+ST-801,male,43,49,45,68,73,67,kinesthetic,2,Ask questions
+ST-802,male,24,99,55,73,80,76,kinesthetic,3,Study more
+ST-803,female,73,41,25,95,94,87,auditory,2,Practice regularly
+ST-804,female,84,52,52,87,85,82,auditory,3,Study more
+ST-805,female,84,67,55,78,76,73,auditory,5,Study more
+ST-806,male,82,39,33,74,81,75,visual,4,Study more
+ST-807,female,78,72,28,75,74,64,kinesthetic,2,Ask questions
+ST-808,female,81,74,45,40,45,41,kinesthetic,2,Join study group
+ST-809,male,39,60,37,69,75,90,auditory,5,Join study group
+ST-810,male,27,36,28,51,54,59,kinesthetic,5,Ask questions
+ST-811,male,83,44,42,36,31,51,kinesthetic,4,Study more
+ST-812,male,38,82,58,49,47,45,visual,3,Practice regularly
+ST-813,female,57,70,48,67,64,54,auditory,1,Join study group
+ST-814,male,20,80,36,76,84,87,visual,5,Study more
+ST-815,female,97,66,58,83,80,72,kinesthetic,3,Join study group
+ST-816,male,28,53,41,87,86,94,auditory,5,Practice regularly
+ST-817,female,49,33,53,64,59,45,visual,4,Practice regularly
+ST-818,male,83,39,38,76,70,61,kinesthetic,5,Join study group
+ST-819,female,74,56,25,68,72,60,visual,4,Join study group
+ST-820,female,51,55,55,88,91,77,auditory,2,Study more
+ST-821,female,91,31,22,92,90,85,auditory,3,Ask questions
+ST-822,female,73,65,58,93,90,78,auditory,3,Practice regularly
+ST-823,male,27,30,39,51,52,49,visual,1,Ask questions
+ST-824,female,85,40,39,82,87,71,auditory,4,Study more
+ST-825,female,99,51,28,52,58,48,auditory,4,Join study group
+ST-826,male,87,26,27,58,67,62,visual,4,Join study group
+ST-827,female,83,42,25,70,68,56,visual,4,Practice regularly
+ST-828,female,73,85,29,76,69,65,visual,5,Practice regularly
+ST-829,female,60,98,55,81,86,69,kinesthetic,1,Ask questions
+ST-830,male,95,36,21,53,54,68,auditory,1,Study more
+ST-831,female,69,68,21,57,60,61,auditory,4,Ask questions
+ST-832,female,36,95,35,89,86,74,kinesthetic,5,Join study group
+ST-833,male,76,74,58,58,60,64,kinesthetic,1,Ask questions
+ST-834,female,73,94,43,89,82,77,kinesthetic,1,Ask questions
+ST-835,male,56,67,35,45,50,58,auditory,2,Study more
+ST-836,female,77,32,36,74,64,60,visual,2,Ask questions
+ST-837,male,90,92,43,57,64,73,auditory,1,Ask questions
+ST-838,female,27,47,35,79,82,75,kinesthetic,1,Practice regularly
+ST-839,male,20,38,47,53,57,58,kinesthetic,3,Study more
+ST-840,female,68,73,49,73,77,66,auditory,2,Practice regularly
+ST-841,female,75,90,52,46,52,39,kinesthetic,3,Join study group
+ST-842,male,38,99,36,51,58,64,kinesthetic,5,Practice regularly
+ST-843,female,44,52,27,36,44,23,auditory,3,Join study group
+ST-844,male,37,36,31,76,77,74,visual,4,Practice regularly
+ST-845,female,93,95,47,64,65,40,auditory,2,Ask questions
+ST-846,male,39,60,48,84,85,90,auditory,4,Ask questions
+ST-847,male,68,64,21,85,85,91,kinesthetic,1,Join study group
+ST-848,male,65,48,46,50,54,64,visual,5,Study more
+ST-849,female,24,31,46,68,72,59,auditory,2,Practice regularly
+ST-850,male,48,67,56,69,75,80,visual,5,Study more
+ST-851,male,58,74,52,67,67,71,visual,5,Practice regularly
+ST-852,female,23,78,49,63,68,61,kinesthetic,3,Ask questions
+ST-853,female,67,35,44,93,85,87,visual,2,Study more
+ST-854,male,51,92,21,61,67,82,visual,4,Join study group
+ST-855,male,29,46,36,55,64,62,visual,5,Study more
+ST-856,female,95,79,47,96,97,97,visual,2,Practice regularly
+ST-857,male,94,33,36,65,68,75,visual,3,Ask questions
+ST-858,female,45,86,43,81,79,65,kinesthetic,2,Practice regularly
+ST-859,male,50,98,43,46,49,52,auditory,3,Ask questions
+ST-860,male,77,55,54,72,73,87,kinesthetic,4,Ask questions
+ST-861,female,66,42,30,53,62,53,visual,4,Join study group
+ST-862,female,34,35,31,87,86,81,visual,1,Join study group
+ST-863,male,45,45,36,38,42,39,visual,4,Study more
+ST-864,female,33,80,31,80,71,71,visual,1,Practice regularly
+ST-865,male,24,28,31,91,93,97,auditory,2,Ask questions
+ST-866,male,86,41,21,88,82,82,auditory,5,Ask questions
+ST-867,male,53,36,44,52,53,59,visual,3,Practice regularly
+ST-868,male,71,67,59,41,42,61,auditory,5,Practice regularly
+ST-869,male,91,85,34,72,74,78,visual,3,Practice regularly
+ST-870,male,83,37,23,51,51,49,kinesthetic,2,Ask questions
+ST-871,male,39,76,30,47,58,59,visual,1,Ask questions
+ST-872,female,30,83,54,76,72,70,visual,5,Practice regularly
+ST-873,male,65,56,54,78,84,82,kinesthetic,5,Study more
+ST-874,male,88,26,33,82,90,90,auditory,3,Study more
+ST-875,female,58,81,29,61,62,43,auditory,5,Study more
+ST-876,male,91,36,33,66,64,80,visual,2,Join study group
+ST-877,male,92,93,41,84,82,81,visual,2,Join study group
+ST-878,male,21,79,35,54,61,57,kinesthetic,1,Join study group
+ST-879,female,38,89,31,80,72,59,visual,5,Practice regularly
+ST-880,female,60,21,29,74,76,64,visual,4,Ask questions
+ST-881,male,64,34,46,66,64,63,auditory,3,Practice regularly
+ST-882,female,61,39,41,70,70,71,auditory,1,Join study group
+ST-883,female,86,28,32,71,73,64,visual,1,Join study group
+ST-884,male,41,98,43,44,46,55,auditory,3,Practice regularly
+ST-885,female,37,81,28,54,51,51,kinesthetic,2,Ask questions
+ST-886,female,60,29,55,80,76,62,auditory,2,Join study group
+ST-887,female,27,21,33,95,100,93,auditory,2,Practice regularly
+ST-888,male,83,59,44,59,72,54,kinesthetic,2,Join study group
+ST-889,female,49,41,43,74,65,69,kinesthetic,3,Join study group
+ST-890,male,75,68,33,48,51,44,auditory,4,Join study group
+ST-891,female,28,68,59,91,85,86,kinesthetic,5,Ask questions
+ST-892,female,23,55,51,85,92,85,visual,1,Study more
+ST-893,female,36,32,24,73,67,50,kinesthetic,3,Study more
+ST-894,male,21,75,51,75,74,88,auditory,4,Practice regularly
+ST-895,female,65,96,21,69,62,59,visual,1,Study more
+ST-896,female,73,26,52,38,34,32,auditory,2,Study more
+ST-897,male,53,99,35,27,29,36,auditory,1,Ask questions
+ST-898,female,70,27,36,79,78,63,visual,2,Join study group
+ST-899,male,25,38,45,63,54,67,visual,3,Practice regularly
+ST-900,female,87,85,56,82,78,65,kinesthetic,1,Join study group
+ST-901,male,62,51,25,89,84,85,kinesthetic,1,Ask questions
+ST-902,female,79,71,54,74,78,73,visual,3,Join study group
+ST-903,female,90,31,35,41,48,34,auditory,3,Practice regularly
+ST-904,female,68,38,56,100,100,93,visual,3,Ask questions
+ST-905,female,69,23,48,84,84,67,auditory,2,Practice regularly
+ST-906,male,46,70,58,77,77,88,visual,3,Ask questions
+ST-907,male,67,39,36,51,48,57,auditory,1,Ask questions
+ST-908,female,67,68,43,91,84,79,visual,4,Practice regularly
+ST-909,female,82,46,41,72,75,67,kinesthetic,1,Join study group
+ST-910,male,94,26,29,70,64,70,kinesthetic,4,Join study group
+ST-911,male,93,75,31,48,42,50,auditory,2,Study more
+ST-912,female,60,38,39,82,84,69,kinesthetic,2,Ask questions
+ST-913,female,38,98,42,66,61,52,visual,3,Study more
+ST-914,female,77,79,58,66,62,47,auditory,1,Study more
+ST-915,female,88,70,26,55,61,46,auditory,4,Study more
+ST-916,female,24,24,42,66,70,68,kinesthetic,2,Ask questions
+ST-917,male,80,39,30,100,100,100,kinesthetic,3,Study more
+ST-918,female,60,21,52,52,61,44,visual,1,Join study group
+ST-919,female,22,69,51,80,77,57,auditory,5,Study more
+ST-920,male,26,23,28,91,96,91,auditory,1,Join study group
+ST-921,male,63,60,32,67,70,69,auditory,1,Practice regularly
+ST-922,female,78,61,24,46,53,35,auditory,3,Join study group
+ST-923,male,25,87,22,66,66,72,visual,5,Practice regularly
+ST-924,female,96,32,37,65,65,54,visual,5,Practice regularly
+ST-925,male,78,83,30,69,70,74,auditory,3,Practice regularly
+ST-926,male,95,25,52,60,64,74,kinesthetic,4,Join study group
+ST-927,male,21,32,42,52,56,64,kinesthetic,2,Practice regularly
+ST-928,female,67,80,55,71,61,65,visual,1,Ask questions
+ST-929,male,72,37,45,44,43,46,visual,5,Ask questions
+ST-930,female,52,40,55,51,56,48,visual,3,Practice regularly
+ST-931,male,40,42,42,70,74,67,kinesthetic,1,Join study group
+ST-932,male,89,37,27,62,57,62,auditory,4,Join study group
+ST-933,male,51,35,42,73,71,61,visual,3,Practice regularly
+ST-934,male,69,85,38,74,75,70,auditory,2,Study more
+ST-935,male,93,78,27,90,87,98,visual,2,Practice regularly
+ST-936,male,30,73,29,58,63,70,auditory,4,Ask questions
+ST-937,male,38,79,47,53,57,67,kinesthetic,1,Study more
+ST-938,female,81,36,51,57,58,57,auditory,3,Practice regularly
+ST-939,male,28,43,29,85,81,85,kinesthetic,1,Ask questions
+ST-940,male,69,51,20,69,68,77,auditory,1,Ask questions
+ST-941,male,87,31,33,72,66,72,kinesthetic,2,Ask questions
+ST-942,female,39,38,27,96,91,78,auditory,5,Ask questions
+ST-943,male,20,60,54,64,66,81,visual,5,Ask questions
+ST-944,male,69,53,22,61,62,61,auditory,3,Ask questions
+ST-945,female,28,74,21,61,68,58,auditory,5,Join study group
+ST-946,female,82,56,50,58,61,54,visual,1,Join study group
+ST-947,male,81,33,48,80,82,82,kinesthetic,1,Join study group
+ST-948,female,47,38,57,60,58,49,kinesthetic,5,Join study group
+ST-949,male,66,66,33,52,50,49,kinesthetic,1,Study more
+ST-950,female,83,87,41,73,75,57,auditory,4,Study more
+ST-951,male,61,64,54,71,73,94,kinesthetic,2,Join study group
+ST-952,female,46,45,50,83,77,75,visual,5,Join study group
+ST-953,female,20,73,38,72,74,74,kinesthetic,2,Join study group
+ST-954,male,76,66,41,54,52,58,kinesthetic,1,Practice regularly
+ST-955,female,29,68,25,69,69,62,kinesthetic,2,Join study group
+ST-956,male,81,63,58,62,57,72,kinesthetic,5,Ask questions
+ST-957,male,26,37,40,81,87,84,visual,4,Ask questions
+ST-958,female,40,88,21,100,100,92,auditory,2,Ask questions
+ST-959,female,25,25,58,59,63,45,kinesthetic,5,Join study group
+ST-960,male,52,83,46,71,81,75,auditory,3,Practice regularly
+ST-961,female,88,66,36,64,58,56,visual,3,Ask questions
+ST-962,female,48,75,41,53,54,48,kinesthetic,5,Study more
+ST-963,female,69,53,30,100,100,100,kinesthetic,2,Practice regularly
+ST-964,female,65,80,46,75,76,65,kinesthetic,2,Practice regularly
+ST-965,male,75,73,56,58,57,72,kinesthetic,3,Join study group
+ST-966,female,70,50,56,72,70,62,auditory,2,Join study group
+ST-967,male,27,32,40,64,68,66,visual,4,Ask questions
+ST-968,male,89,93,44,60,63,63,auditory,1,Join study group
+ST-969,female,93,73,54,67,76,68,auditory,2,Join study group
+ST-970,female,61,27,27,80,84,75,kinesthetic,4,Ask questions
+ST-971,female,77,43,25,100,100,89,auditory,5,Ask questions
+ST-972,male,38,39,50,69,72,78,auditory,1,Practice regularly
+ST-973,female,93,51,46,60,50,53,kinesthetic,5,Practice regularly
+ST-974,female,78,53,24,61,65,49,kinesthetic,2,Study more
+ST-975,female,54,65,45,67,63,54,auditory,5,Practice regularly
+ST-976,female,80,97,45,77,82,64,visual,1,Study more
+ST-977,male,32,35,59,60,62,60,visual,3,Practice regularly
+ST-978,male,91,56,22,58,65,62,auditory,4,Practice regularly
+ST-979,male,63,26,40,48,41,55,kinesthetic,2,Study more
+ST-980,female,67,41,38,94,95,91,auditory,1,Study more
+ST-981,female,32,39,38,23,24,8,kinesthetic,3,Study more
+ST-982,male,37,61,57,78,78,81,auditory,3,Ask questions
+ST-983,male,53,63,35,86,85,79,visual,5,Ask questions
+ST-984,female,56,71,39,91,87,78,visual,5,Join study group
+ST-985,female,88,59,59,82,75,74,visual,3,Practice regularly
+ST-986,male,93,27,27,54,51,57,auditory,5,Study more
+ST-987,female,77,55,34,51,59,40,kinesthetic,5,Join study group
+ST-988,male,84,93,58,76,75,81,auditory,5,Ask questions
+ST-989,female,59,60,41,45,45,44,auditory,3,Join study group
+ST-990,female,60,96,29,83,86,67,auditory,3,Join study group
+ST-991,male,82,42,40,75,81,86,visual,3,Ask questions
+ST-992,female,89,72,46,78,82,65,visual,5,Study more
+ST-993,female,77,58,26,76,76,55,visual,2,Join study group
+ST-994,female,47,25,33,74,72,62,auditory,5,Practice regularly
+ST-995,male,41,80,26,62,63,63,kinesthetic,5,Study more
+ST-996,female,38,66,22,95,99,88,auditory,3,Ask questions
+ST-997,male,38,50,25,55,55,62,visual,2,Study more
+ST-998,female,91,50,23,65,71,59,auditory,3,Ask questions
+ST-999,female,20,32,41,77,78,68,auditory,3,Practice regularly
+ST-1000,female,26,92,42,86,86,77,auditory,2,Ask questions
